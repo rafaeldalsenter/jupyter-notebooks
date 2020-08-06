@@ -1,3 +1,3 @@
-# scraping-ecommerce-notebook
+# jupyter-notebooks
 
-A simple example of Jupyter notebook to get price data from an e-commerce 😜
+Some Jupyter notebooks 😜
